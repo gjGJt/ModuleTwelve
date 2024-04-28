@@ -1,4 +1,13 @@
-  #include <iostream>
+/*Divide-and-conquer is an approach that breaks down problems into managegable 
+subproblems and solves them in an order that completes the whole
+In the context of MergeSort
+Divide---The algorithm divides the array into two halves recursively until each sub-array contains only one element.
+Conquer---- It then sorts each sub-array individually by comparing elements and merging them back together in
+sorted order.*/
+
+
+
+#include <iostream>
 using namespace std;
 
 // Functions  ( I used the names in the outline)
