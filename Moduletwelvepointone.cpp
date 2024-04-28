@@ -65,7 +65,7 @@ int main()
     cout << "Enter number of elements to be sorted: ";
     cin >> num;
     // Inputted elements to be sorted
-    cout << "Enter " << num << " elements to be sorted: ";
+    cout << "Enter " << num << " elements to be sorted by spaces: ";
     for (int i = 0; i < num; i++) {
         cin >> myarray[i];
     }
